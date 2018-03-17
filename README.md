@@ -13,5 +13,12 @@ Reinforcement Learning cheatsheet
 https://github.com/udacity/rl-cheatsheet  
 
 OpenAI Gym: Blackjack Environment
-![alt text](https://github.com/TakumaKawahara/RL-DynamicPrograming/blob/master/frozen-lake.jpg)
+![alt text](https://github.com/TakumaKawahara/RL-MonteCarloMethods/blob/master/blackjack.png)  
+  
+
+Output: State-Value function
+![alt text](https://github.com/TakumaKawahara/RL-MonteCarloMethods/blob/master/state-value_function.png)  
+  
+Output: Policy
+![alt text](https://github.com/TakumaKawahara/RL-MonteCarloMethods/blob/master/policy.png)  
   
